@@ -1,0 +1,1 @@
+node --harmony main.js --TIMELOG-ENV LXCIPPPT401-TIMELOG --env esbProduction --check business.txt --dates 20170919,20170920 --timeLogAnalyzer analyzeIP
