@@ -16,6 +16,7 @@
   "author": "Pavel Novotny",
   "license": "ISC",
   "dependencies": {
+    "dateformat": "3.0.2",
     "nconf": "0.8.4",
     "winston": "2.3.1"
   }
