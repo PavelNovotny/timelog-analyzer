@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitce.cz.o2:group_integrace/proxy-ip.git"
+    "url": "git@github.com:PavelNovotny/timelog-analyzer.git"
   },
   "author": "Pavel Novotny",
   "license": "ISC",
