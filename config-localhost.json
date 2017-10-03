@@ -1,0 +1,13 @@
+{
+  "logLevel" : "debug",
+  "paths" : {
+    "esbProduction" : {
+      "index" : "/Users/pavelnovotny/WebstormProjects/proxy-ip/test/data/",
+      "data"  : "/Users/pavelnovotny/WebstormProjects/proxy-ip/test/data/"
+    },
+    "esbLegacy" : {
+      "index" : "",
+      "data"  : ""
+    }
+  }
+}

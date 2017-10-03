@@ -1,0 +1,13 @@
+{
+  "logLevel" : "info",
+  "paths" : {
+    "esbProduction" : {
+      "index" : "/appl/home/ciplogs/logs/hashSeek/hash/prod/",
+      "data"  : "/appl/home/ciplogs/logs/esb_logs/"
+    },
+    "esbLegacy" : {
+      "index" : "",
+      "data"  : ""
+    }
+  }
+}

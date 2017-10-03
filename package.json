@@ -1,0 +1,22 @@
+{
+  "name": "proxy-ip",
+  "version": "1.0.0",
+  "description": "finds proxy ip addresses",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitce.cz.o2:group_integrace/proxy-ip.git"
+  },
+  "author": "Pavel Novotny",
+  "license": "ISC",
+  "dependencies": {
+    "nconf": "^0.8.5",
+    "winston": "^2.3.1"
+  }
+}
