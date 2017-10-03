@@ -2,7 +2,7 @@
   "name": "timelog-analyzer",
   "version": "1.0.0",
   "description": "finds proxy ip addresses",
-  "main": "index.js",
+  "main": "lib/time-log-reader.js",
   "directories": {
     "test": "test"
   },
