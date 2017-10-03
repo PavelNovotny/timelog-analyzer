@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:PavelNovotny/timelog-analyzer.git"
+    "url": "https://github.com/PavelNovotny/timelog-analyzer.git"
   },
   "author": "Pavel Novotny",
   "license": "ISC",
   "dependencies": {
-    "nconf": "^0.8.5",
-    "winston": "^2.3.1"
+    "nconf": "0.8.4",
+    "winston": "2.3.1"
   }
 }
